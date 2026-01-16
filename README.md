@@ -16,9 +16,7 @@ I am an aspiring software developer with a focus on building functional and aest
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zainamrj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Zainamrj&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 
-
-**Zainamrj/Zainamrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
