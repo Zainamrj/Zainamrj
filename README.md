@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 I am an aspiring software developer with a focus on building functional and aesthetically pleasing web applications. I enjoy solving problems through code and am currently refining my skills in Java and Front-end development.<br>🛠️ What I'm working on:<br>Leetcode: Solving Leetcode to enhance my problem solving skills<br>Web Design: Developing my Personal Portfolio using HTML and CSS to showcase my work.<br><br>🚀 Goal: Creating efficient software solutions for real-world problems.
 
@@ -20,7 +19,7 @@ I am an aspiring software developer with a focus on building functional and aest
 ![](https://github-contributor-stats.vercel.app/api?username=Zainamrj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
+
 **Zainamrj/Zainamrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
